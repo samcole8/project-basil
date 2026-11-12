@@ -25,3 +25,7 @@ Automated hydroponic basil farm.
 ## Plumbing
 
 ![](plumbing.drawio.svg)
+
+## Wiring
+
+![](wiring.drawio.svg)
