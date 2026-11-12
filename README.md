@@ -2,8 +2,7 @@
 
 Automated hydroponic basil farm.
 
-### Plumbing
- 
+## Parts
 
 | ID  | Part                        | Spec                                        | Qty |
 | --- | --------------------------- | ------------------------------------------- | --- |
