@@ -1,2 +1,7 @@
 # project-basil
-Hydroponic basil project
+
+Automated hydroponic basil farm.
+
+## Plumbing
+
+![](plumbing.drawio.svg)
